@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/module/customer/customer.iml" filepath="$PROJECT_DIR$/module/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragon.iml" filepath="$PROJECT_DIR$/dragon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frw/frw.iml" filepath="$PROJECT_DIR$/frw/frw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frw/frw-parent/frw-parent.iml" filepath="$PROJECT_DIR$/frw/frw-parent/frw-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frw/frw-plugin/frw-plugin.iml" filepath="$PROJECT_DIR$/frw/frw-plugin/frw-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frw/frw-tools/frw-tools.iml" filepath="$PROJECT_DIR$/frw/frw-tools/frw-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/intf-customer/intf-customer.iml" filepath="$PROJECT_DIR$/interface/intf-customer/intf-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/po/po.iml" filepath="$PROJECT_DIR$/po/po.iml" />
+      <module fileurl="file://$PROJECT_DIR$/po/po-customer/po-customer.iml" filepath="$PROJECT_DIR$/po/po-customer/po-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>

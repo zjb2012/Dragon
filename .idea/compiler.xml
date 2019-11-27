@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customer" />
+        <module name="frw-parent" />
+        <module name="frw-plugin" />
+        <module name="frw-tools" />
+        <module name="intf-customer" />
+        <module name="po-customer" />
+        <module name="web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="customer" target="1.5" />
+      <module name="dragon" target="1.5" />
+      <module name="frw" target="1.5" />
+      <module name="frw-parent" target="1.5" />
+      <module name="frw-plugin" target="1.5" />
+      <module name="frw-tools" target="1.5" />
+      <module name="interface" target="1.5" />
+      <module name="intf-customer" target="1.5" />
+      <module name="module" target="1.5" />
+      <module name="po" target="1.5" />
+      <module name="po-customer" target="1.5" />
+      <module name="web" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
